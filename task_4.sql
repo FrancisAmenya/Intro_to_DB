@@ -1,2 +1,2 @@
--- Display full description of the 'books' table without using DESCRIBE or EXPLAIN
+-- Display full description of the 'books' table
 SHOW CREATE TABLE Books;
